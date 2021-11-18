@@ -1,0 +1,5 @@
+1. Auto completion
+2. CLI chat app
+3. Recommendation Series and Movie
+// https://towardsdatascience.com/introduction-to-recommender-systems-6c66cf15ada
+4. FastAPI 
